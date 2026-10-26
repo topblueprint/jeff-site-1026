@@ -1,0 +1,9 @@
+{
+  // Worker 名称，也会成为网址的一部分：<name>.<你的子域>.workers.dev
+  "name": "jeff-site-1026",
+  "compatibility_date": "2026-10-01",
+  // 用 Workers 静态资源方式，直接把 public 文件夹发布出去
+  "assets": {
+    "directory": "./public"
+  }
+}

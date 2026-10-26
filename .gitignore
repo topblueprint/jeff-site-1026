@@ -1,0 +1,11 @@
+# Wrangler 本地缓存
+.wrangler/
+
+# 密钥和环境变量（千万不要提交）
+.env
+.env.*
+.dev.vars
+
+# 依赖和系统文件
+node_modules/
+.DS_Store
